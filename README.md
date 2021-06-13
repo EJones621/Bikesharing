@@ -19,3 +19,20 @@ As you can see here these two visualizations above are broken down by gender and
 As you can see here, this heatmap shows that when it comes to the customers of the bike sharing program, the genders are pretty even. Subscribers are mostly men, but general customers are more evenly split between men and women. This means there could be an opening to convert more women to be subscribers in the Des Moines, IA area.
 
 
+![](https://github.com/EJones621/Bikesharing/blob/main/Tableau_Images/Image4.png)
+
+As you can see here, this visualization breaks down statistics by creating a heatmap of ride start time and day of the week. It is also divided by male and female to further show the point that the bike sharing customers are mostly men.
+
+
+![](https://github.com/EJones621/Bikesharing/blob/main/Tableau_Images/Image5.png)
+
+As you can see here, this heat map shows that the bikes are most used during peak commuting hours during the work week. It is more consistent on the weekend though.
+
+
+
+## Summary
+
+Des Moines, IA may have a smaller percentage of tourists than most cities, like New York City, but the usage by locals should be similar to NYC. With the right pricing structure the program should do well. In order to continue the analysis, here are my suggestions:
+
+1. The total number of bikes can be calculated using the bike ID and then the utilization charted to extimated how many bikes are sitting idle at any one time and therefore not making any money.
+2. The checkout times should be re-run using only *subscribers*. Since these are less likely to be tourists and will be more of a source of steady income for the program, this may give a more realiztic picture of what the Des Moinse program can expect to see.
